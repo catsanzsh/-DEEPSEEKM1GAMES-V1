@@ -1,11 +1,34 @@
 # -DEEPSEEKM1GAMES-V1
 V1
  DeepSeekM1 Games V1 🎮
+# DeepSeekM1 Games V1 🎮
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity.com/)
 [![Platforms](https://img.shields.io/badge/Platforms-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)](https://example.com)
 
+## Features ✨
+
+*🤖 AI-driven NPC behavior systems*  
+*🖥️ Metal-optimized graphics pipeline*  
+*🎯 Adaptive difficulty system*  
+*🌐 Multiplayer-ready architecture*  
+*📊 Real-time performance analytics*  
+*🕹️ Support for various input devices*  
+*📜 Apache 2.0 License Driven*
+
+## LICENSE 📄
+
+```text
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions...
+
+   [Full License Text]
 A collection of AI-powered gaming experiences optimized for M1/M2 architectures. Powered by DeepSeek framework.
 
 ![Gameplay Demo](docs/demo.gif) <!-- Add your gameplay gif here -->
